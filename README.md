@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GOKUL</title>
+     <title>GOKUL</title>
 </head>
 <body>
     <table cellspacing="20">
@@ -80,30 +80,30 @@
         </thead>
         <tr>
             <td><label>Ezharai_memes</label></td>
-            <td><input type = "range" name=" Ezharai_memes Ratings"></inputtype></td>
+            <td><input type = "range" name=" Ezharai_memes Ratings"> </inputtype></td>
         </tr>
         <tr>
             <td><label>thoolbajji_memes</label></td>
-            <td><input type = "range" name="Thoolbajji_memes Ratings"></inputtype></td>
+            <td><input type = "range" name="Thoolbajji_memes Ratings"> </inputtype></td>
         </tr>
         <tr>
             <td><label>toxic_memes</label></td>
-            <td><input type = "range" name="Toxic_memes Ratings"></inputtype></td>
+            <td><input type = "range" name="Toxic_memes Ratings"> </inputtype></td>
         </tr><tr>
             <td><label>anime_endlessly</label></td>
-            <td><input type = "range" name="anime_endlessly Ratings"></inputtype></td>
+            <td><input type = "range" name="anime_endlessly Ratings"> </inputtype></td>
         </tr><tr>
             <td><label>vicky_edits</label></td>
-            <td><input type = "range" name="vicky_edits Ratings"></inputtype></td>
+            <td><input type = "range" name="vicky_edits Ratings"> </inputtype></td>
         </tr><tr>
             <td><label>chinnathambi_memes</label></td>
-            <td><input type = "range" name="chinnathambi_memes Ratings"></inputtype></td>
+            <td><input type = "range" name="chinnathambi_memes Ratings"> </inputtype></td>
         </tr><tr>
             <td><label>elantharipayaluva</label></td>
-            <td><input type = "range" name="elantharipayaluva Ratings"></inputtype></td>
+            <td><input type = "range" name="elantharipayaluva Ratings"> </inputtype></td>
         </tr><tr>
             <td><label>thalaivar_thimingalam</label></td>
-            <td><input type = "range" name="thalaivar_thimingalam Ratings"></inputtype></td>
+            <td><input type = "range" name="thalaivar_thimingalam Ratings"> </inputtype></td>
         </tr>
     </table>
     <input type="submit">
