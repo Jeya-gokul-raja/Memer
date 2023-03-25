@@ -70,6 +70,7 @@
     </ul>
     <hr size="3" noshade>
     <h2>RATINGS</h2>
+    <form action="mailto:jeyagokulraja@gmail.com" method="post" enctype="text/plain">
     <table cellspacing="20">
         <thead>
             <tr>
@@ -78,33 +79,35 @@
             </tr>
         </thead>
         <tr>
-            <td>Ezharai_memes</td>
-            <td><input type = "range"></inputtype></td>
+            <td><label>Ezharai_memes</label></td>
+            <td><input type = "range" name=" Ezharai_memes Ratings"></inputtype></td>
         </tr>
         <tr>
-            <td>thoolbajji_memes</td>
-            <td><input type = "range"></inputtype></td>
+            <td><label>thoolbajji_memes</label></td>
+            <td><input type = "range"name="Thoolbajji_memes Ratings"></inputtype></td>
         </tr>
         <tr>
-            <td>toxic_memes</td>
-            <td><input type = "range"></inputtype></td>
+            <td><label>toxic_memes</label></td>
+            <td><input type = "range"name="Toxic_memes Ratings"></inputtype></td>
         </tr><tr>
-            <td>anime_endlessly</td>
-            <td><input type = "range"></inputtype></td>
+            <td><label>anime_endlessly</label></td>
+            <td><input type = "range"name="anime_endlessly Ratings"></inputtype></td>
         </tr><tr>
-            <td>vicky_edits</td>
-            <td><input type = "range"></inputtype></td>
+            <td><label>vicky_edits</label></td>
+            <td><input type = "range"name="vicky_edits Ratings"></inputtype></td>
         </tr><tr>
-            <td>chinnathambi_memes</td>
-            <td><input type = "range"></inputtype></td>
+            <td><label>chinnathambi_memes</label></td>
+            <td><input type = "range"name="chinnathambi_memes Ratings"></inputtype></td>
         </tr><tr>
-            <td>elantharipayaluva</td>
-            <td><input type = "range"></inputtype></td>
+            <td><label>elantharipayaluva</label></td>
+            <td><input type = "range"name="elantharipayaluva Ratings"></inputtype></td>
         </tr><tr>
-            <td>thalaivar_thimingalam</td>
-            <td><input type = "range"></inputtype></td>
+            <td><label>thalaivar_thimingalam</label></td>
+            <td><input type = "range"name="thalaivar_thimingalam Ratings"></inputtype></td>
         </tr>
     </table>
+    <input type="submit">
+    </form>
     
 </body>
 </html>
